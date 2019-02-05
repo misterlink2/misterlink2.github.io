@@ -149,3 +149,6 @@ text-transform: uppercase;
 .sub-header{
   text-align: center;
 }
+.intro{
+  list-style: none;
+}
